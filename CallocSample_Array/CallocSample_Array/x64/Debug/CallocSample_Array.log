@@ -1,0 +1,3 @@
+﻿  CallocSample_Array.cpp
+D:\Workspace\GP1\Practice1\CallocSample_Array\CallocSample_Array\CallocSample_Array.cpp(11,12): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+  CallocSample_Array.vcxproj -> D:\Workspace\GP1\Practice1\CallocSample_Array\x64\Debug\CallocSample_Array.exe
