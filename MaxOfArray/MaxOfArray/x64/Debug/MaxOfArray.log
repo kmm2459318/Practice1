@@ -1,0 +1,3 @@
+﻿  MaxOfArray.cpp
+D:\Workspace\GP1\Practice1\MaxOfArray\MaxOfArray\MaxOfArray.cpp(15,12): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+  MaxOfArray.vcxproj -> D:\Workspace\GP1\Practice1\MaxOfArray\x64\Debug\MaxOfArray.exe
